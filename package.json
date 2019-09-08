@@ -1,0 +1,16 @@
+{
+  "name": "foobartory",
+  "version": "1.0.0",
+  "description": "exercice foobartory",
+  "main": "foobartory.js",
+  "scripts": {
+    "start": "node foobartory.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Moussa Chaker",
+  "license": "ISC",
+  "dependencies": {
+    "thread-sleep": "^2.2.0",
+    "uuid": "^3.3.3"
+  }
+}
