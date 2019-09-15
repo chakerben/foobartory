@@ -10,7 +10,6 @@
   "author": "Ben Moussa Chaker",
   "license": "ISC",
   "dependencies": {
-    "thread-sleep": "^2.2.0",
     "uuid": "^3.3.3"
   }
 }
